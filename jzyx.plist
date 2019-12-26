@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>items</key>
+        <array>
+                <dict>
+                        <key>assets</key>
+                        <array>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>software-package</string>
+                                        <key>url</key>
+                                        <string>http://172.16.19.176:8090/kit_file_server/file/version-admin/20191225/f33cf0cbbedc415baf0618dbe04afb86.ipa</string>
+                                </dict>
+                                <dict>
+                                   <key>kind</key>
+                                   <string>full-size-image</string>
+                                   <key>needs-shine</key>
+                                   <true/>
+                                   <key>url</key>
+                                   <string>http://172.16.19.176:8090/kit_file_server/file/version-admin/20191225/d06dbd160c19407f9905bd93c99fc014.jpg</string>
+                                </dict>
+                                <dict>
+                                  <key>kind</key>
+                                  <string>display-image</string>
+                                  <key>needs-shine</key>
+                                  <true/>
+                                  <key>url</key>
+                                  <string>http://172.16.19.176:8090/kit_file_server/file/version-admin/20191225/d06dbd160c19407f9905bd93c99fc014.jpg</string>
+                                </dict>
+                        </array>
+                        <key>metadata</key>
+                        <dict>
+                                <key>bundle-identifier</key>
+                                <string></string>
+                                <key>bundle-version</key>
+                                <string>2.0.1</string>
+                                <key>kind</key>
+                                <string>software</string>
+                                <key>title</key>
+                                <string>精准营销</string>
+                        </dict>
+                </dict>
+        </array>
+</dict>
+</plist>
